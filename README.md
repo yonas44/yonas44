@@ -3,7 +3,7 @@
 <p>A passionate front-end developer, self taught and now student at Microverse. Looking for ways to become the best at what I do and become a full-stack developer!</p>
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/) or <a href='mailto:tesfu.yonas1350@gmail.com'> Email</a>. I will make sure to get back to you!😊
 - ⚡ Fun fact: I like to listen lofi/ chill musics when doing almost everything.
 
 <!--  <p align="left">
