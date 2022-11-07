@@ -1,14 +1,9 @@
-### Hey there👋...Yonas here!
-
+<h1>Hey there👋...Yonas here!</h1>
+<p><img src="https://komarev.com/ghpvc/?username=yonas44&label=Profile%20views&color=0e75b6&style=flat" alt="yonas44" /></p>
 <p>A passionate frontend developer, self taught and now student at Microverse. Looking for ways to become the best at what I do and become a full-stack developer!</p>
 
-- 🔭 I’m currently working on Movie app using React
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on frontend projects using React
-- 🤔 I’m looking for help with tailwind css
-- 💬 Ask me about tech related topics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/)
-- 😄 Pronouns: He/ His
 - ⚡ Fun fact: I like to listen lofi/ chill musics when doing almost everything.
 
 <!--  <p align="left">
@@ -36,5 +31,7 @@
 
   <br />
 </p>
-
-<img src='https://github-readme-stats-eight-theta.vercel.app/api?username=yonas44&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' />
+<div>
+<img align="left" width=45% src='https://github-readme-stats-eight-theta.vercel.app/api?username=yonas44&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' />
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yonas44&" alt="yonas44" />
+</div>
