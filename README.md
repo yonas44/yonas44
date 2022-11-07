@@ -1,4 +1,4 @@
-<h1>Hey there👋...Yonas here!</h1>
+<h1 align='center'>Hey there👋...Yonas here!</h1>
 <p><img src="https://komarev.com/ghpvc/?username=yonas44&label=Profile%20views&color=0e75b6&style=flat" alt="yonas44" /></p>
 <p>A passionate frontend developer, self taught and now student at Microverse. Looking for ways to become the best at what I do and become a full-stack developer!</p>
 
@@ -16,19 +16,17 @@
       <a href="https://github.com/yonas44?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yonas44?color=55960c&style=for-the-badge&labelColor=488207&logo=star"></a>
    </p> -->
-
-### 🧰 Languages and Tools
+<h3> 🧰 Languages and Tools</h3>
 
 <p>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="Git" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
+<img  alt="HTML" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img  alt="CSS" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img  alt="JavaScript" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img  alt="React" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  alt="C++" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img  alt="GitHub" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <br />
 </p>
 <div>
