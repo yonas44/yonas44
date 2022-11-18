@@ -30,7 +30,6 @@
   <br />
 </p>
 <div>
-<img align="left" width=45% src='https://github-readme-stats-eight-theta.vercel.app/api?username=yonas44
-&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' alt="yonas44"/>
+<img align="left" width=45% src='https://github-readme-stats-eight-theta.vercel.app/api?username=yonas44&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' alt="yonas44"/>
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yonas44&" alt="yonas44" />
 </div>
