@@ -28,7 +28,8 @@
 <img  alt="C++" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img  alt="GitHub" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
-          
+<img width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+        
   <br />
 </p>
 <div>
