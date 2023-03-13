@@ -1,6 +1,6 @@
 <h1 align='center'>Hey there👋...Yonas here!</h1>
 <p><img src="https://komarev.com/ghpvc/?username=yonas44&label=Profile%20views&color=0e75b6&style=flat" alt="yonas44" /></p>
-<p>A passionate front-end developer, self-taught, and now a student at Microverse. Looking for ways to become the best at what I do and become a full-stack developer!</p>
+<p>A passionate full-stack developer, self-taught, and now a student at Microverse. Looking for ways to become the best at what I do.</p>
 
 - 🌱 I’m currently learning RoR
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/) or <a href='mailto:tesfu.yonas1350@gmail.com'> Email</a>. I will make sure to get back to you!😊
@@ -29,7 +29,7 @@
 <img  alt="GitHub" width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
 <img width="50px" style="margin-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-        
+<img width="50px" style="margin-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <br />
 </p>
 <div>
