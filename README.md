@@ -1,10 +1,10 @@
 <h1 align='center'>Hey there👋...Yonas here!</h1>
 <p><img src="https://komarev.com/ghpvc/?username=yonas44&label=Profile%20views&color=0e75b6&style=flat" alt="yonas44" /></p>
-<p>A passionate full-stack developer, self-taught, and now a student at Microverse. Looking for ways to become the best at what I do.</p>
+<p>A passionate full-stack developer, Looking for ways to become the best at what I do.</p>
 
-- 🌱 I’m currently learning RoR
+- 🌱 I’m currently looking to collaborate on React, Redux and Ruby on Rails projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/) or <a href='mailto:tesfu.yonas1350@gmail.com'> Email</a>. I will make sure to get back to you!😊
-- ⚡ Fun fact: I like to listen lofi/ chill musics when doing almost everything.
+- ⚡ Fun fact: The best dreams are what keep us awake.
 
 <!--  <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
