@@ -2,7 +2,7 @@
 <p><img src="https://komarev.com/ghpvc/?username=yonas44&label=Profile%20views&color=0e75b6&style=flat" alt="yonas44" /></p>
 <p>A passionate full-stack developer, Looking for ways to become the best at what I do.</p>
 
-- 🌱 I’m currently working on a personal full-stack [side project](https://github.com/yonas44/NTA) 🤓, learning Rust, collaborating on React, express.js and Ruby on Rails projects.
+- 🌱 I’m currently working on a personal full-stack web [app](https://github.com/yonas44/NTA) 🤓, and also collaborating on React, and Ruby on Rails projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yonas-tesfu-3284811a9/) or <a href='mailto:tesfu.yonas1350@gmail.com'> Email</a>. I will make sure to get back to you!😊
 - ⚡ Fun fact: The best dreams are what keep us awake.
 
